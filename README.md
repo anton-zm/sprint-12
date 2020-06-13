@@ -23,5 +23,6 @@
 
 3. Запустить локальный сервер на localhost:3000
 
-$ npm run start
-$ npm run dev
+\$ npm run start
+
+\$ npm run dev

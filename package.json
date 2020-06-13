@@ -1,7 +1,7 @@
 {
   "name": "backend-12",
   "version": "1.0.0",
-  "description": "",
+  "description": "Yandex.Practikum Test of sprint 12",
   "main": "app.js",
   "scripts": {
     "dev": "nodemon app.js",
