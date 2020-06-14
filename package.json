@@ -1,0 +1,29 @@
+{
+  "name": "backend-12",
+  "version": "1.0.0",
+  "description": "Yandex.Practikum Test of sprint 12",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anton-zm/sprint-12.git"
+  },
+  "author": "Anton Zmanovskii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anton-zm/sprint-12/issues"
+  },
+  "homepage": "https://github.com/anton-zm/sprint-12#readme",
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.21.1",
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
